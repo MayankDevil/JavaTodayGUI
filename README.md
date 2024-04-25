@@ -58,7 +58,7 @@ cd ./src/
 -  Interpret bytecode
 
 ```sh
-java App.class
+java Main.class
 ```
 
 - For close use CTRL+C else GUI
