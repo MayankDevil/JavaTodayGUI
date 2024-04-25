@@ -24,7 +24,7 @@
 
 #### Project Look & Feel
 
-![NETWORK_ERROR](./lib/img/Today.png)
+![NETWORK_ERROR](./lib/image/Today.png)
 
 #### Theme
 
